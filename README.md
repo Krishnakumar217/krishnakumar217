@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Krishnakumar217/krishnakumar217/blob/main/Krishna%20Kumar.png)
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
